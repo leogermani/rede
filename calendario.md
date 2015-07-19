@@ -11,6 +11,8 @@
 
 ## Agosto
 
+* CONIP (http://www.governoeletronico.gov.br/noticias-e-eventos/eventos/conip-2015/)
+
 ## Setembro
 
 * Conferência Web.br (http://conferenciaweb.w3c.br/inscricoes/)
